@@ -1,1 +1,1 @@
-# Introduction-to-Programming I _final-project
+# Introduction to Programming I_final project
