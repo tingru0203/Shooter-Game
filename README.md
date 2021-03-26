@@ -4,7 +4,7 @@ Use C and Allegro 5 to design a shooter game.
 ### Introduction
 * choose a role in the setting page
 * 3 lives and 100 hp each life in the beginning (show on screen bottom)
-* 3 level with different difficulty
+* 3 level with different difficulty and background
 * add 10 points when a enemy dies
 * add 500 points when the big boss dies (level 3)
 * sound effect and bgm
