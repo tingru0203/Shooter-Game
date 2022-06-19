@@ -1,4 +1,4 @@
-# Introduction to Programming I_final project
+# Shooter Game
 Use C and Allegro 5 to design a shooter game.
 
 ### Introduction
